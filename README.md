@@ -6,6 +6,11 @@ An immersive interactive holiday experience featuring Harry Winston jewelry bran
 
 **[🚀 Live Demo](https://creativetravelist.github.io/holiday-2024/)**
 
+
+https://github.com/user-attachments/assets/3e9bff5d-445e-4124-be16-6b57389c2fbd
+
+
+
 ## 🌟 Features
 
 - **Interactive Map Journey**: SVG animated paths with clickable exploration points
