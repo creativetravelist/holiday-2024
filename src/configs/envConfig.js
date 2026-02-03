@@ -14,6 +14,4 @@ const configs = {
   ADMIN_PATH: "",
 };
 
-console.log("configs:", configs);
-
 export default configs;
