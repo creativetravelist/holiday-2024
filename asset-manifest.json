@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/holiday-2024/static/css/main.72889648.css",
-    "main.js": "/holiday-2024/static/js/main.c33112ee.js",
-    "static/js/592.4554e8be.chunk.js": "/holiday-2024/static/js/592.4554e8be.chunk.js",
-    "static/js/390.b2c67237.chunk.js": "/holiday-2024/static/js/390.b2c67237.chunk.js",
-    "static/js/865.43576119.chunk.js": "/holiday-2024/static/js/865.43576119.chunk.js",
-    "static/js/231.b4b6dbe1.chunk.js": "/holiday-2024/static/js/231.b4b6dbe1.chunk.js",
+    "main.js": "/holiday-2024/static/js/main.6bef00a6.js",
+    "static/js/592.3f492254.chunk.js": "/holiday-2024/static/js/592.3f492254.chunk.js",
+    "static/js/390.f7809c65.chunk.js": "/holiday-2024/static/js/390.f7809c65.chunk.js",
+    "static/js/865.776e141d.chunk.js": "/holiday-2024/static/js/865.776e141d.chunk.js",
+    "static/js/352.2a26fe59.chunk.js": "/holiday-2024/static/js/352.2a26fe59.chunk.js",
     "static/css/313.faa2c944.chunk.css": "/holiday-2024/static/css/313.faa2c944.chunk.css",
-    "static/js/313.b6ce17c5.chunk.js": "/holiday-2024/static/js/313.b6ce17c5.chunk.js",
+    "static/js/313.3b029cc6.chunk.js": "/holiday-2024/static/js/313.3b029cc6.chunk.js",
     "static/js/428.ac0ae8d5.chunk.js": "/holiday-2024/static/js/428.ac0ae8d5.chunk.js",
     "index.html": "/holiday-2024/index.html",
     "static/media/route-1.svg": "/holiday-2024/static/media/route-1.fad71868c645807ac3cfa50911631226.svg",
     "static/media/route-2.svg": "/holiday-2024/static/media/route-2.cb496c8b7da907d6279908f14c0ca659.svg",
     "static/media/route-3.svg": "/holiday-2024/static/media/route-3.f06ec627a27a312d691e7f5628e332fa.svg",
     "main.72889648.css.map": "/holiday-2024/static/css/main.72889648.css.map",
-    "main.c33112ee.js.map": "/holiday-2024/static/js/main.c33112ee.js.map",
-    "592.4554e8be.chunk.js.map": "/holiday-2024/static/js/592.4554e8be.chunk.js.map",
-    "390.b2c67237.chunk.js.map": "/holiday-2024/static/js/390.b2c67237.chunk.js.map",
-    "865.43576119.chunk.js.map": "/holiday-2024/static/js/865.43576119.chunk.js.map",
-    "231.b4b6dbe1.chunk.js.map": "/holiday-2024/static/js/231.b4b6dbe1.chunk.js.map",
+    "main.6bef00a6.js.map": "/holiday-2024/static/js/main.6bef00a6.js.map",
+    "592.3f492254.chunk.js.map": "/holiday-2024/static/js/592.3f492254.chunk.js.map",
+    "390.f7809c65.chunk.js.map": "/holiday-2024/static/js/390.f7809c65.chunk.js.map",
+    "865.776e141d.chunk.js.map": "/holiday-2024/static/js/865.776e141d.chunk.js.map",
+    "352.2a26fe59.chunk.js.map": "/holiday-2024/static/js/352.2a26fe59.chunk.js.map",
     "313.faa2c944.chunk.css.map": "/holiday-2024/static/css/313.faa2c944.chunk.css.map",
-    "313.b6ce17c5.chunk.js.map": "/holiday-2024/static/js/313.b6ce17c5.chunk.js.map",
+    "313.3b029cc6.chunk.js.map": "/holiday-2024/static/js/313.3b029cc6.chunk.js.map",
     "428.ac0ae8d5.chunk.js.map": "/holiday-2024/static/js/428.ac0ae8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72889648.css",
-    "static/js/main.c33112ee.js"
+    "static/js/main.6bef00a6.js"
   ]
 }
