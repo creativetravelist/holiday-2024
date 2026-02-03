@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/holiday-2024/static/css/main.72889648.css",
-    "main.js": "/holiday-2024/static/js/main.6bef00a6.js",
+    "main.js": "/holiday-2024/static/js/main.1dc14205.js",
     "static/js/592.3f492254.chunk.js": "/holiday-2024/static/js/592.3f492254.chunk.js",
     "static/js/390.f7809c65.chunk.js": "/holiday-2024/static/js/390.f7809c65.chunk.js",
     "static/js/865.776e141d.chunk.js": "/holiday-2024/static/js/865.776e141d.chunk.js",
@@ -14,7 +14,7 @@
     "static/media/route-2.svg": "/holiday-2024/static/media/route-2.cb496c8b7da907d6279908f14c0ca659.svg",
     "static/media/route-3.svg": "/holiday-2024/static/media/route-3.f06ec627a27a312d691e7f5628e332fa.svg",
     "main.72889648.css.map": "/holiday-2024/static/css/main.72889648.css.map",
-    "main.6bef00a6.js.map": "/holiday-2024/static/js/main.6bef00a6.js.map",
+    "main.1dc14205.js.map": "/holiday-2024/static/js/main.1dc14205.js.map",
     "592.3f492254.chunk.js.map": "/holiday-2024/static/js/592.3f492254.chunk.js.map",
     "390.f7809c65.chunk.js.map": "/holiday-2024/static/js/390.f7809c65.chunk.js.map",
     "865.776e141d.chunk.js.map": "/holiday-2024/static/js/865.776e141d.chunk.js.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.72889648.css",
-    "static/js/main.6bef00a6.js"
+    "static/js/main.1dc14205.js"
   ]
 }
